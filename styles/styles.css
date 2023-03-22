@@ -1,8 +1,22 @@
 body {
     background-color: black;
-    background-image: url("/images/bg-5.jpg");
+    background-image: url("/images/bg-2.jpg");
 }
 
 h1, p, ul {
     color: white;
+}
+
+.p-site, .p-level {
+    z-index: 1;
+    color: white;
+    display: block;
+}
+
+img {
+    width: 800px;
+    height: 450px;
+    border: 2px solid white;
+    border-radius: 2vmin;
+    z-index: 0;
 }
