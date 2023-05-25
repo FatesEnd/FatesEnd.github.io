@@ -1,9 +1,6 @@
 body {
-    background-color: black;
-}
-
-h1, p, ul, header {
-    color: white;
+    background-color: white;
+    width: 100%;
 }
 
 .main-header {
