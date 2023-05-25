@@ -5,3 +5,7 @@ body {
 h1, p, ul, header {
     color: white;
 }
+
+.main-header {
+    text-align: center;
+}
