@@ -1,1 +1,1 @@
-alert("Hi");
+// My main.js
